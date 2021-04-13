@@ -1,0 +1,3 @@
+Olá, este é um demonstrativo de velocidade baseado em pixels/segundo, utilizando a biblioteca de multimidia SFML.
+Para utilizar o programa basta que você clique(ou segure) com o botão esquerdo do mouse em qualquer lugar da tela
+do SpeedDemo!
